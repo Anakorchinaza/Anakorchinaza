@@ -5,7 +5,7 @@
 
 <div id="badges"  align="center" style = "background-color:#000000">
                                        
-  <a href="anakor.chinaza.s@gmail.com" target = "_blank">
+  <a href="mailto:anakor.chinaza.s@gmail.com" target = "_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/RubyAnakor/" target = "_blank">
