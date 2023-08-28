@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/css3-316192?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-23F7931E?style=for-the-badge&logo=Bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Javascript-%230db7ed.svg?style=for-the-badge&logo=Javascript&logoColor=white" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/jQuery-%230db7ed.svg?style=for-the-badge&logo=jQuery&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Ajax-%230db7ed.svg?style=for-the-badge&logo=Ajax&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PHP-14354C?style=for-the-badge&logo=PHP&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Laravel-E97627?style=for-the-badge&logo=Laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;
