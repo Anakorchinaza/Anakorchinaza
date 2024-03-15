@@ -17,8 +17,7 @@
 
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
-  <samp> A Full-Stack PHP Developer, proficient in front end development and back end web development. Comfortable coding with HTML 5, CSS, Bootstrap,  jQuery, Media Query and Javascript for the client-side and maintaining databases and infrastructure server-side using PHP and Laravel framework. Adapt in using MySQL database in supporting my work in both development and production of code.
-  </samp>
+  <samp>I am a passionate and results-oriented PHP Laravel developer with 3 years of experience building scalable and secure web applications. I have a proven track record of delivering high-quality code that meets deadlines and exceeds expectations. I am skilled in all aspects of the development lifecycle, from front-end development to back-end development and database management.</samp>
 </p>
 
 <hr>
