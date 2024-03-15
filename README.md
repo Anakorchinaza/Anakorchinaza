@@ -25,7 +25,6 @@
 
 <h2 align="center"> 🔭 Tech Stack </h2>
 <p align="center">
-   **Front-End:**
   <img src="https://img.shields.io/badge/-html5-005571?style=for-the-badge&logo=html5" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css3-316192?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-23F7931E?style=for-the-badge&logo=Bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -33,15 +32,16 @@
   <img src="https://img.shields.io/badge/jQuery-%230db7ed.svg?style=for-the-badge&logo=jQuery&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Ajax-%230db7ed.svg?style=for-the-badge&logo=Ajax&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <br>
-  **Back-End:**
   <img src="https://img.shields.io/badge/PHP-14354C?style=for-the-badge&logo=PHP&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Laravel-E97627?style=for-the-badge&logo=Laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <br>
-  **Database:**
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <br>
-  **DevOps:**
-  <img src="https://img.shields.io/badge/Git-
+  <img src="https://img.shields.io/badge/Github-242181?style=for-the-badge&logo=github" alt="Github Badge"/> 
+  <img src="https://img.shields.io/badge/Docker-239F3F?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+  <br>
+  <img src="https://img.shields.io/badge/RESTful%20APIs-000000?style=for-the-badge&logo=rest" alt="RESTful API Badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-38A3A5?style=for-the-badge" alt="Problem Solving Badge"/>
  
 </p>
 
