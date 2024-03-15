@@ -15,7 +15,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F73ADA&multiline=true&width=435&lines=Hello+World+👋🏽+I'm+Ruby+.%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
 
-<h2 align="center"> 👨‍💻 Who am I?</h2>
+<h2 align="center"> 👨‍💻 About Me</h2>
 <p align="center">
   <samp>I am a passionate and results-oriented PHP Laravel developer with 3 years of experience building scalable and secure web applications. I have a proven track record of delivering high-quality code that meets deadlines and exceeds expectations. I am skilled in all aspects of the development lifecycle, from front-end development to back-end development and database management.</samp>
 </p>
