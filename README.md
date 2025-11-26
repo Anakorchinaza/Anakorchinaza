@@ -1,52 +1,84 @@
-<div id="header" align="center" style = "background-color:#000000">
-  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200" height= "200"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="180" />
+  
+  <h1>Hello! 👋 I'm Chinaza</h1>
+  <h3>Backend PHP Laravel Developer | Scalable Systems | Fintech | API Integrations</h3>
+
+  <p>
+    <a href="mailto:anakor.chinaza.s@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/RubyAnakor/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+  </p>
 </div>
 
+---
 
-<div id="badges"  align="center" style = "background-color:#000000">
-                                       
-  <a href="mailto:anakor.chinaza.s@gmail.com" target = "_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/RubyAnakor/" target = "_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-    <br><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F73ADA&multiline=true&width=435&lines=Hello!+%F0%9F%91%8B+I'm+Chinaza+" alt="Typing SVG" /></a>
+## 👨‍💻 About Me  
+I’m a backend PHP Laravel developer with strong experience building secure, stable, and scalable applications—especially within fintech and data-driven systems.  
+I enjoy transforming complex business needs into clean, efficient solutions that balance performance, security, and developer-friendly architecture.
+
+🟣 **What I do best**  
+- Architecting backend systems in Laravel  
+- Writing clean, maintainable, scalable code  
+- Integrating third-party APIs (Mono, Paystack, etc.)  
+- Optimizing performance: caching, indexing, efficient queries  
+- Building reusable components and structured backend architecture  
+- Delivering features with zero downtime (deployment discipline)
+
+---
+
+## 🛠️ Tech Stack  
+
+### **Backend & Core**
+- **PHP • Laravel • RESTful APIs • OOP • MVC Architecture**
+- **Laravel Queues • Events • Jobs • Notifications**
+- **Data Security • Authentication • Authorization**
+
+### **Database**
+- **MySQL • Query Optimization • Indexing • Migrations • Data Modeling**
+
+### **Frontend (Support-Level)**
+- **HTML5 • CSS3 • Bootstrap • JavaScript • jQuery • Livewire (Working Knowledge)**
+
+### **Tools & DevOps**
+- **Git & GitHub**  
+- **Docker**  
+- **CI/CD basics**  
+- **Composer, NPM**  
+- **Linux Server Management**  
+- **Postman / API Testing**
+
+### **Core Engineering Strengths**
+- **Problem Solving & Debugging**
+- **Clean Code & Best Practices**
+- **Scalable System Design**
+- **Collaboration with Designers & Frontend Teams**
+- **Performance Optimization**
+- **Feature Deployment Discipline & Backup Strategy**
+
+---
+
+## 🚀 Current Focus  
+- Building secure fintech systems with clean architectural patterns  
+- Improving API integration workflows (Mono, credit systems, verification APIs)  
+- Strengthening performance optimization strategies  
+- Documenting my engineering journey  
+
+---
+
+## 🌱 From My Journal of Growth  
+> _“Every challenge is just data.  
+> Every solution is a lesson.  
+> And every lesson becomes part of who I’m becoming.”_  
+🌱
+
+---
+
+## 📊 GitHub Overview  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinazaAnakor&theme=transparent" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinazaAnakor&layout=compact&theme=transparent" height="180" />
 </div>
-
-<h2 align="center"> 👨‍💻 About Me</h2>
-<p align="center">
-  <samp>I am a passionate and results-oriented PHP Laravel developer with 3 years of experience building scalable and secure web applications. I have a proven track record of delivering high-quality code that meets deadlines and exceeds expectations. I am skilled in all aspects of the development lifecycle, from front-end development to back-end development and database management.</samp>
-</p>
-
-<hr>
-
-<h2 align="center"> 🔭 Tech Stack </h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/-html5-005571?style=for-the-badge&logo=html5" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/css3-316192?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-23F7931E?style=for-the-badge&logo=Bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Javascript-%230db7ed.svg?style=for-the-badge&logo=Javascript&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/jQuery-%230db7ed.svg?style=for-the-badge&logo=jQuery&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Ajax-%230db7ed.svg?style=for-the-badge&logo=Ajax&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <br>
-  <img src="https://img.shields.io/badge/PHP-14354C?style=for-the-badge&logo=PHP&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Laravel-E97627?style=for-the-badge&logo=Laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <br>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <br>
-  <img src="https://img.shields.io/badge/Github-242181?style=for-the-badge&logo=github" alt="Github Badge"/> 
-  <img src="https://img.shields.io/badge/Docker-239F3F?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
-  <br>
-  <img src="https://img.shields.io/badge/RESTful%20APIs-000000?style=for-the-badge&logo=rest" alt="RESTful API Badge"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-38A3A5?style=for-the-badge" alt="Problem Solving Badge"/>
- 
-</p>
-
-<hr>
-
-
-
-
-<hr>
