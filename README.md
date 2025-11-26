@@ -33,15 +33,15 @@ I enjoy transforming complex business needs into clean, efficient solutions that
 ## 🛠️ Tech Stack  
 
 ### **Backend & Core**
-- **PHP • Laravel • RESTful APIs • OOP • MVC Architecture**
+- **PHP • Laravel • RESTful APIs • Laravel Filament • OOP • MVC Architecture**
 - **Laravel Queues • Events • Jobs • Notifications**
-- **Data Security • Authentication • Authorization**
+- **Data Security • Authentication • Security Best Practices • Authorization**
 
 ### **Database**
 - **MySQL • Query Optimization • Indexing • Migrations • Data Modeling**
 
 ### **Frontend (Support-Level)**
-- **HTML5 • CSS3 • Bootstrap • JavaScript • jQuery • Livewire (Working Knowledge)**
+- **HTML5 • CSS3 • Bootstrap • JavaScript • jQuery • Livewire (Filament-based experience)**
 
 ### **Tools & DevOps**
 - **Git & GitHub**  
